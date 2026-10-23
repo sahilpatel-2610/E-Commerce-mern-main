@@ -1,0 +1,13 @@
+{
+  "name": "e-commerce-mern",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run server --prefix server\" \"npm run dev --prefix client\" \"npm run dev --prefix admin\"",
+    "client": "npm run dev --prefix client",
+    "admin": "npm run dev --prefix admin",
+    "server": "npm run server --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

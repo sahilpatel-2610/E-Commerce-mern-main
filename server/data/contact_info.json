@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "main",
+    "storeName": "Vraj Creation Luxury E-Commerce",
+    "email": "contact@vrajcreation.com",
+    "phone": "+91 6357324318",
+    "address": "54709 Willms Station, Suite 350, Washington, USA",
+    "workingHours": "Mon - Sat: 9:00 AM - 8:00 PM IST",
+    "supportEmail": "support@vrajcreation.com",
+    "socials": {
+      "instagram": "https://instagram.com",
+      "facebook": "https://facebook.com",
+      "twitter": "https://twitter.com"
+    }
+  }
+]

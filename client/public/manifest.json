@@ -1,0 +1,25 @@
+{
+  "name": "Vraj Creation - Luxury Menswear",
+  "short_name": "Vraj Creation",
+  "description": "Elite Bespoke Men's Apparel, Festive Kurtas, Gurkha Pants & Luxury Silhouettes from Surat Heritage.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#09090b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle", "fashion"]
+}

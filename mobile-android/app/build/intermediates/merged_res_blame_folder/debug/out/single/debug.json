@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_why_exchange.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_why_exchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_orders_receipt.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_orders_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_login.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_shield_check.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_shield_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_circle_gold.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_circle_gold.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_home.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_dot_unselected.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_dot_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_item_product_horizontal.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\item_product_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_item_banner.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\item_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_chip_selected.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_chip_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_highlight_fabrics.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_highlight_fabrics.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_header_account.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_header_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_fragment_collection.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\fragment_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_error.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_item_filter_chip.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\item_filter_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_policy_secure.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_policy_secure.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_collection_filled.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_collection_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_local_offer.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_local_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_currency_exchange.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_currency_exchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_instagram.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_instagram.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_badge_gold.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_badge_gold.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_delete_sweep.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_delete_sweep.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_why_support.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_why_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_pill_search.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_pill_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_item_order.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_location_pin.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_location_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_bottom_nav_gold_border.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_bottom_nav_gold_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_gold_outline_btn.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_gold_outline_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_contact_location.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_contact_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_dialog_order_track.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\dialog_order_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_headset_mic.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_headset_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_chip_unselected.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_chip_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_contact_careers.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_contact_careers.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_heritage_location.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_heritage_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_view_top_notification_banner.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\view_top_notification_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_auto_awesome.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_auto_awesome.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_bottom_nav_active.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_bottom_nav_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_dot_active.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_dot_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_heritage_shipping.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_heritage_shipping.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_activity_place_order.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\activity_place_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_circle_icon.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_circle_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_toast_error.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_toast_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_collection.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_contact_outlined.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_contact_outlined.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_badge_green.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_badge_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_home_outlined.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_home_outlined.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_input_field.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_home_filled.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_home_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_gold_gradient_btn.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_gold_gradient_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_policy_exchange.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_policy_exchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_dialog_policy_detail.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\dialog_policy_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_checkroom.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_checkroom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_contact_email.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_contact_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_dot_inactive.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_dot_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_heritage_manufacture.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_heritage_manufacture.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\color_bottom_nav_color_selector.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\color\\bottom_nav_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_dialog_search.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\dialog_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_heritage_tailoring.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_heritage_tailoring.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_contact.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_scrim_bottom.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_scrim_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_glass_gold_pill.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_glass_gold_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_highlight_trends.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_highlight_trends.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_policy_support.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_policy_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_hero_gradient_overlay.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_hero_gradient_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_inventory_box.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_inventory_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_item_about_slide.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\item_about_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_dialog_order_tracking.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\dialog_order_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_bottom_nav_tab_active.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_bottom_nav_tab_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_dot_selected.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_dot_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_bottom_nav_bar.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_bottom_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_arrow_back_ios.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_arrow_back_ios.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_luxury_gold_spinner.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_luxury_gold_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_contact_filled.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_contact_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_dialog_notification_center.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\dialog_notification_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_contact_phone.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_contact_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_dialog_order_invoice.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\dialog_order_invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_event_available.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_event_available.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_elevated_card.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_elevated_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_item_notification.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_dark_card.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_dark_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_fragment_contact.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_dialog_account_menu.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\dialog_account_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_activity_orders.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_badge_discount.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_badge_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_header_search.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_header_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_my_location.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_my_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_about.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_shopping_bag.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_shopping_bag.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_about_outlined.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_about_outlined.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_collection_outlined.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_collection_outlined.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_dots_capsule.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_dots_capsule.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_toast_success.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_toast_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_header_cart.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_header_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_header_bell.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_header_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_star_filled.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_star_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_copy.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_copy.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_layout_luxury_toast.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\layout_luxury_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_delete_trash.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_delete_trash.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_policy_return.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_policy_return.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_why_verified.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_why_verified.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_toast_info.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_toast_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_bg_luxury_toast.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\bg_luxury_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_invoice.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_nav_about_filled.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_nav_about_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-merged_res-40:\\drawable_ic_luxury_gold_ring.xml.flat",
+        "source": "C:\\Users\\kakad\\.gradle\\daemon\\8.4\\com.vrajcreation.app-main-42:\\drawable\\ic_luxury_gold_ring.xml"
+    }
+]

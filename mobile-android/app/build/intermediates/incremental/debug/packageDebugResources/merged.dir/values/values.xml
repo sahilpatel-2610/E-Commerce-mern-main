@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#07070A</color>
+    <color name="border_dark">#27272A</color>
+    <color name="border_gold">#59FBBF24</color>
+    <color name="bottom_nav_border">#33FBBF24</color>
+    <color name="card_elevated">#181822</color>
+    <color name="discount_red">#EF4444</color>
+    <color name="discount_red_bg">#20EF4444</color>
+    <color name="emerald_green">#34D399</color>
+    <color name="gold_amber">#F59E0B</color>
+    <color name="gold_dark">#D97706</color>
+    <color name="gold_glow">#4DFBBF24</color>
+    <color name="gold_light">#FCD34D</color>
+    <color name="gold_primary">#FBBF24</color>
+    <color name="gold_soft_bg">#26FBBF24</color>
+    <color name="ic_launcher_background">#07070A</color>
+    <color name="icon_circle_bg">#16161D</color>
+    <color name="overlay_black_40">#66000000</color>
+    <color name="overlay_black_70">#B3000000</color>
+    <color name="product_card_bg">#0F0F14</color>
+    <color name="purple_light">#C084FC</color>
+    <color name="sky_blue">#38BDF8</color>
+    <color name="status_blue">#3B82F6</color>
+    <color name="status_blue_bg">#203B82F6</color>
+    <color name="status_green">#10B981</color>
+    <color name="status_green_bg">#2010B981</color>
+    <color name="status_orange">#F97316</color>
+    <color name="status_orange_bg">#20F97316</color>
+    <color name="surface_card">#121218</color>
+    <color name="surface_dark">#0D0D12</color>
+    <color name="text_black">#050505</color>
+    <color name="text_gray">#A1A1AA</color>
+    <color name="text_gray_dark">#71717A</color>
+    <color name="text_gray_light">#E4E4E7</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <string name="app_name">Vraj Creation</string>
+    <string name="brand_tagline">ROYAL ETHNIC &amp; LUXURY COUTURE</string>
+    <string name="title_about">About</string>
+    <string name="title_account">Account</string>
+    <string name="title_cart">Bag</string>
+    <string name="title_collection">Collection</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notification Center</string>
+    <string name="title_orders">My Orders</string>
+    <string name="title_search">Search Catalog</string>
+    <style name="LuxuryBottomSheet" parent="Widget.Material3.BottomSheet.Modal">
+        <item name="backgroundTint">@color/surface_dark</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.LuxuryBottomSheet</item>
+    </style>
+    <style name="LuxuryBottomSheetDialog" parent="ThemeOverlay.Material3.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/LuxuryBottomSheet</item>
+    </style>
+    <style name="LuxuryProgressBar" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:indeterminateTint">@color/gold_primary</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+    </style>
+    <style name="ShapeAppearance.LuxuryBottomSheet" parent="ShapeAppearance.Material3.LargeComponent">
+        <item name="cornerSizeTopLeft">24dp</item>
+        <item name="cornerSizeTopRight">24dp</item>
+    </style>
+    <style name="Theme.VrajCreation" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/surface_dark</item>
+        <item name="android:navigationBarColor">@color/surface_dark</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="colorPrimary">@color/gold_primary</item>
+        <item name="colorSecondary">@color/gold_light</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="android:textColorPrimary">@color/text_white</item>
+        <item name="android:textColorSecondary">@color/text_gray</item>
+        <item name="bottomSheetDialogTheme">@style/LuxuryBottomSheetDialog</item>
+        <item name="android:progressBarStyle">@style/LuxuryProgressBar</item>
+        <item name="swipeRefreshLayoutProgressSpinnerBackgroundColor">@color/surface_dark</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter Mobile App (Hot Reload)",
+      "request": "launch",
+      "type": "dart",
+      "cwd": "mobile-flutter",
+      "program": "lib/main.dart",
+      "flutterMode": "debug"
+    }
+  ]
+}

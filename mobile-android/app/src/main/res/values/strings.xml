@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vraj Creation</string>
+    <string name="title_home">Home</string>
+    <string name="title_collection">Collection</string>
+    <string name="title_about">About</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_account">Account</string>
+    <string name="title_cart">Bag</string>
+    <string name="title_orders">My Orders</string>
+    <string name="title_search">Search Catalog</string>
+    <string name="title_notifications">Notification Center</string>
+    <string name="brand_tagline">ROYAL ETHNIC &amp; LUXURY COUTURE</string>
+</resources>

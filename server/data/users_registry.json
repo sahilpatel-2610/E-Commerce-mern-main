@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "usr_testing70_gmail_com",
+    "id": "usr_testing70_gmail_com",
+    "name": "testing70",
+    "email": "testing70@gmail.com",
+    "password": "$2b$10$9Guza8dGs1UvZVoFZ9YLguc/HWGVFr5Yy66PD5PoVyFFkJZM4PKYu",
+    "rawPassword": "1234567",
+    "phone": "12233262007",
+    "phoneNumber": "12233262007",
+    "cartData": {},
+    "role": "customer",
+    "platform": "Web Storefront",
+    "createdAt": "2026-10-13T04:51:45.623Z"
+  },
+  {
+    "_id": "usr_patron_example_com",
+    "id": "usr_patron_example_com",
+    "name": "Test Patron",
+    "email": "patron@example.com",
+    "password": "$2b$10$c433RkuclC5Gl2pVOCjrx.74yvMBhQKSUgBvKTdHuiVwXk56S588q",
+    "rawPassword": "password123",
+    "phone": "9876543210",
+    "phoneNumber": "9876543210",
+    "cartData": {},
+    "role": "customer",
+    "platform": "Mobile Flutter App",
+    "createdAt": "2026-08-25T06:19:34.786Z"
+  },
+  {
+    "_id": "usr_testing6_gmail_com",
+    "id": "usr_testing6_gmail_com",
+    "name": "testing6",
+    "email": "testing6@gmail.com",
+    "password": "$2b$10$EzDgevWZ.Sn4ktG0Ms3d/Ow9ZXjkKUjCoZmCyJYoSWts1JmqFyEUS",
+    "rawPassword": "1234567",
+    "phone": "2735233223",
+    "phoneNumber": "2735233223",
+    "cartData": {},
+    "role": "customer",
+    "platform": "Web Storefront",
+    "createdAt": "2026-08-24T11:56:33.927Z"
+  },
+  {
+    "_id": "usr_android_patron_vrajcreation_com",
+    "id": "usr_android_patron_vrajcreation_com",
+    "name": "Android Wholesale Patron",
+    "email": "android.patron@vrajcreation.com",
+    "password": "$2b$10$c433RkuclC5Gl2pVOCjrx.74yvMBhQKSUgBvKTdHuiVwXk56S588q",
+    "rawPassword": "password123",
+    "phone": "9876543210",
+    "phoneNumber": "9876543210",
+    "cartData": {},
+    "role": "customer",
+    "platform": "Mobile Android App",
+    "createdAt": "2026-08-27T06:15:00.000Z"
+  }
+]

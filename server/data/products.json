@@ -1,0 +1,454 @@
+[
+  {
+    "_id": "prod_1787727724867_5qs1",
+    "id": "prod_1787727724867_5qs1",
+    "name": "fefffwseffffsfrffsfsrdsdf",
+    "description": "sefsfffsfsdfsdeferefe",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 564554,
+    "oldPrice": 0,
+    "discount": 0,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "sefsfsf",
+    "bestseller": true,
+    "stock": 15,
+    "countInStock": 15,
+    "sizes": [
+      "XL",
+      "2XL"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787727721/hero_banners/ktsw3vaobcjrine4sf8x.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787727722/hero_banners/kzwufguziqhylhvno286.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787727721/hero_banners/ktsw3vaobcjrine4sf8x.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787727722/hero_banners/kzwufguziqhylhvno286.jpg"
+    ],
+    "rating": 4,
+    "date": 1787727725031,
+    "updatedAt": "2026-08-26T07:02:05.031Z"
+  },
+  {
+    "_id": "prod_1787725621587_7bsk",
+    "id": "prod_1787725621587_7bsk",
+    "name": "asdfghjkl",
+    "description": "asdfghjkl",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 23213,
+    "oldPrice": 0,
+    "discount": 0,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "asdfghjkl",
+    "bestseller": true,
+    "stock": 15,
+    "countInStock": 15,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787725617/hero_banners/dytvadcvcaskiqmdh4oi.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787725618/hero_banners/egwm3wgksvqfqddhsqwe.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787725619/hero_banners/uzcerc6mfew1px7wdz7r.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787725617/hero_banners/dytvadcvcaskiqmdh4oi.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787725618/hero_banners/egwm3wgksvqfqddhsqwe.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787725619/hero_banners/uzcerc6mfew1px7wdz7r.jpg"
+    ],
+    "rating": 5,
+    "date": 1787725622040,
+    "updatedAt": "2026-08-26T06:27:02.040Z"
+  },
+  {
+    "_id": "prod_1787724412943_3yv5",
+    "id": "prod_1787724412943_3yv5",
+    "name": "abcdcccc",
+    "description": "abcdcccc",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 34232,
+    "oldPrice": 234342,
+    "discount": 0,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "acbcccc",
+    "bestseller": false,
+    "stock": 15,
+    "countInStock": 15,
+    "sizes": [
+      "One Size",
+      "XXL"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787724410/hero_banners/szpblgldutotkulot4bz.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787724411/hero_banners/jwfnk8oeopndq7sutdv0.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787724410/hero_banners/szpblgldutotkulot4bz.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787724411/hero_banners/jwfnk8oeopndq7sutdv0.jpg"
+    ],
+    "rating": 4,
+    "date": 1787724413484,
+    "updatedAt": "2026-08-26T06:07:55.180Z"
+  },
+  {
+    "_id": "prod_1787723728860_3o69",
+    "id": "prod_1787723728860_3o69",
+    "name": "scddc",
+    "description": "awdasd",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 34343,
+    "oldPrice": 0,
+    "discount": 0,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "dsasd",
+    "bestseller": false,
+    "stock": 15,
+    "countInStock": 15,
+    "sizes": [],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787723727/hero_banners/zrexrljmagb8rgdnsslv.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787723727/hero_banners/zrexrljmagb8rgdnsslv.jpg"
+    ],
+    "rating": 2,
+    "date": 1787723729526,
+    "updatedAt": "2026-08-26T05:55:29.526Z"
+  },
+  {
+    "_id": "prod_1787722579205_m25t",
+    "id": "prod_1787722579205_m25t",
+    "name": "asdasd",
+    "description": "asdad",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 51515,
+    "oldPrice": null,
+    "discount": null,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "awd",
+    "bestseller": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787722572/hero_banners/iny6aqzint4mbwqhpqg7.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787722575/hero_banners/skr0mgz1p8inz2ajdhvv.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787722577/hero_banners/eieuffps3dz9y8whjma4.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787722572/hero_banners/iny6aqzint4mbwqhpqg7.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787722575/hero_banners/skr0mgz1p8inz2ajdhvv.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787722577/hero_banners/eieuffps3dz9y8whjma4.jpg"
+    ],
+    "date": 1787722799779,
+    "createdAt": "2026-08-26T05:39:59.779Z"
+  },
+  {
+    "_id": "prod_1787657755173_2p1t",
+    "id": "prod_1787657755173_2p1t",
+    "name": "srfsf",
+    "description": "rfrf",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 345434,
+    "oldPrice": null,
+    "discount": null,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "rfr",
+    "bestseller": false,
+    "sizes": [
+      "2XL",
+      "4XL",
+      "30",
+      "34"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657753/hero_banners/dpsb14ub4tq4wscoruqw.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657754/hero_banners/skaqfnp2aj1qgu6gkaxs.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657753/hero_banners/dpsb14ub4tq4wscoruqw.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657754/hero_banners/skaqfnp2aj1qgu6gkaxs.jpg"
+    ],
+    "date": 1787657755287,
+    "createdAt": "2026-08-25T11:35:55.287Z"
+  },
+  {
+    "_id": "prod_1787657697725_6a55",
+    "id": "prod_1787657697725_6a55",
+    "name": "rfer",
+    "description": "err",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 56556,
+    "oldPrice": 43433,
+    "discount": null,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "ef",
+    "bestseller": true,
+    "sizes": [
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657695/hero_banners/g80xvqfmqgxjs4mxb9bh.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657696/hero_banners/fept6iw3sz41pkn7aiud.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657695/hero_banners/g80xvqfmqgxjs4mxb9bh.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657696/hero_banners/fept6iw3sz41pkn7aiud.jpg"
+    ],
+    "date": 1787657697901,
+    "createdAt": "2026-08-25T11:34:57.901Z"
+  },
+  {
+    "_id": "prod_1787657640465_xlmg",
+    "id": "prod_1787657640465_xlmg",
+    "name": "sefsef",
+    "description": "sefef",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 45435,
+    "oldPrice": 5,
+    "discount": null,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "wef",
+    "bestseller": true,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657638/hero_banners/anysyduzshadrowmo30w.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657639/hero_banners/cewdywmctdde539vzg7f.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657638/hero_banners/anysyduzshadrowmo30w.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657639/hero_banners/cewdywmctdde539vzg7f.jpg"
+    ],
+    "date": 1787657640810,
+    "createdAt": "2026-08-25T11:34:00.810Z"
+  },
+  {
+    "_id": "prod_1787657151889_k0ur",
+    "id": "prod_1787657151889_k0ur",
+    "name": "srferf",
+    "description": "erfe",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 3453453,
+    "oldPrice": null,
+    "discount": null,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "erfer",
+    "bestseller": true,
+    "sizes": [
+      "One Size",
+      "38",
+      "XXL",
+      "37",
+      "Free Size",
+      "S",
+      "L"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657150/hero_banners/fpmlhgsifhd1apj5kfzc.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657150/hero_banners/fpmlhgsifhd1apj5kfzc.jpg"
+    ],
+    "date": 1787657160431,
+    "createdAt": "2026-08-25T11:26:00.431Z"
+  },
+  {
+    "_id": "prod_1787656971869_8tx6",
+    "id": "prod_1787656971869_8tx6",
+    "name": "werfe",
+    "description": "erfr",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 334345,
+    "oldPrice": 3433,
+    "discount": null,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "erf",
+    "bestseller": true,
+    "sizes": [
+      "One Size",
+      "Free Size"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657038/hero_banners/ikzn46bszei6mffoqypy.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657039/hero_banners/dmpbbnkv5mr9h641fvvp.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657040/hero_banners/e6rswmnagga2tf3s3xje.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657041/hero_banners/enukhjrmqpuopt27ovdt.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657038/hero_banners/ikzn46bszei6mffoqypy.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657039/hero_banners/dmpbbnkv5mr9h641fvvp.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657040/hero_banners/e6rswmnagga2tf3s3xje.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787657041/hero_banners/enukhjrmqpuopt27ovdt.jpg"
+    ],
+    "date": 1787657042633,
+    "createdAt": "2026-08-25T11:24:02.633Z"
+  },
+  {
+    "_id": "prod_1787654941237_5ch6",
+    "id": "prod_1787654941237_5ch6",
+    "name": "tyfuy",
+    "description": "uygyuui",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 685465,
+    "oldPrice": null,
+    "discount": null,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "bb",
+    "bestseller": true,
+    "sizes": [
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787654940/hero_banners/p2hpqdffzanotyy3ssla.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787654940/hero_banners/p2hpqdffzanotyy3ssla.jpg"
+    ],
+    "date": 1787654941370,
+    "createdAt": "2026-08-25T10:49:01.370Z"
+  },
+  {
+    "_id": "prod_1787653342734_1n7h",
+    "id": "prod_1787653342734_1n7h",
+    "name": "abc",
+    "description": "sefe",
+    "category": "Fashion",
+    "catName": "Fashion",
+    "price": 232332,
+    "oldPrice": 223332,
+    "discount": null,
+    "subCategory": "Men",
+    "subCat": "Men",
+    "brand": "fwef",
+    "bestseller": true,
+    "sizes": [
+      "XS",
+      "32",
+      "34",
+      "36",
+      "38",
+      "Free Size",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "28",
+      "26",
+      "30",
+      "37",
+      "XXL",
+      "One Size"
+    ],
+    "productRam": [],
+    "productWeight": [],
+    "colors": [],
+    "image": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653327/hero_banners/xdhfdm4hdmiog1vdhwzp.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653328/hero_banners/sger7vhyyjhapupyyldu.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653329/hero_banners/zxmtmm3tka8rqevxdxky.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653330/hero_banners/nrf1j8oudzghdrxfmdla.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653331/hero_banners/eud7niitil8ulf9t5t7s.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653332/hero_banners/gngdgligfv0ttwubgnx6.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653333/hero_banners/r8aenlsaxm83gav5ahtj.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653334/hero_banners/pbfmntuy4yarhjnvuwqe.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653335/hero_banners/mfbzidb55seehpfwc1dh.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653336/hero_banners/h5ffzse6njtnlnrrcu4j.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653337/hero_banners/jpujh8bga58mvqgbkybc.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653338/hero_banners/tfxenewh3aprnyxhjc9m.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653339/hero_banners/fakmspgz0fftxnmwahjt.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653340/hero_banners/ps01pfdcfsxpbtlm2tus.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653341/hero_banners/nahzti6qnr1lc11df8g8.jpg"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653327/hero_banners/xdhfdm4hdmiog1vdhwzp.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653328/hero_banners/sger7vhyyjhapupyyldu.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653329/hero_banners/zxmtmm3tka8rqevxdxky.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653330/hero_banners/nrf1j8oudzghdrxfmdla.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653331/hero_banners/eud7niitil8ulf9t5t7s.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653332/hero_banners/gngdgligfv0ttwubgnx6.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653333/hero_banners/r8aenlsaxm83gav5ahtj.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653334/hero_banners/pbfmntuy4yarhjnvuwqe.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653335/hero_banners/mfbzidb55seehpfwc1dh.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653336/hero_banners/h5ffzse6njtnlnrrcu4j.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653337/hero_banners/jpujh8bga58mvqgbkybc.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653338/hero_banners/tfxenewh3aprnyxhjc9m.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653339/hero_banners/fakmspgz0fftxnmwahjt.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653340/hero_banners/ps01pfdcfsxpbtlm2tus.jpg",
+      "https://res.cloudinary.com/dkdvivii2/image/upload/v1787653341/hero_banners/nahzti6qnr1lc11df8g8.jpg"
+    ],
+    "date": 1787653342880,
+    "createdAt": "2026-08-25T10:22:22.880Z"
+  }
+]

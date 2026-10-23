@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardBackgroundColor="@color/bg_dark"
+    app:cardCornerRadius="26dp"
+    app:cardElevation="8dp"
+    app:cardPreventCornerOverlap="true">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- 1. Background Poster Image (Always visible first for 0ms load) -->
+        <ImageView
+            android:id="@+id/ivAboutSlideImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop" />
+
+        <!-- 2. TextureView-based Full CenterCrop Video (Zero black bars) -->
+        <com.vrajcreation.app.views.LuxuryBannerVideoView
+            android:id="@+id/vvAboutSlideVideo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+        <!-- 3. Bottom Gradient Scrim for crystal clear typography -->
+        <View
+            android:id="@+id/viewAboutSlideScrim"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/bg_scrim_bottom" />
+
+        <!-- 4. Top Header Tag Capsule & Counter Indicator -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/tvAboutSlideTag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_glass_gold_pill"
+                android:elevation="6dp"
+                android:letterSpacing="0.08"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="5dp"
+                android:text="✨ LOOKBOOK 01"
+                android:textColor="@color/gold_light"
+                android:textSize="10.5sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tvAboutSlideIndicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_glass_gold_pill"
+                android:elevation="6dp"
+                android:fontFamily="monospace"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="4dp"
+                android:text="1/3"
+                android:textColor="@color/gold_light"
+                android:textSize="10sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <!-- 5. Slide Title & Caption Content (Refined Luxury Fonts & Proportions) -->
+        <LinearLayout
+            android:id="@+id/layoutAboutSlideContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            android:paddingHorizontal="18dp"
+            android:paddingBottom="22dp">
+
+            <TextView
+                android:id="@+id/tvAboutSlideTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:letterSpacing="0.02"
+                android:shadowColor="#CC000000"
+                android:shadowDx="0"
+                android:shadowDy="2"
+                android:shadowRadius="6"
+                android:text="Surat Atelier Lookbook"
+                android:textColor="@color/text_white"
+                android:textSize="19sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvAboutSlideCaption"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:ellipsize="end"
+                android:lineSpacingExtra="2.5dp"
+                android:maxLines="2"
+                android:shadowColor="#AA000000"
+                android:shadowDx="0"
+                android:shadowDy="1"
+                android:shadowRadius="4"
+                android:text="Bespoke Craftsmanship &amp; Luxury Weaves crafted with perfection."
+                android:textColor="#E5E7EB"
+                android:textSize="12.5sp" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</androidx.cardview.widget.CardView>

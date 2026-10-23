@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="44dp"
+    android:height="44dp"
+    android:viewportWidth="44"
+    android:viewportHeight="44">
+
+    <!-- Base faint circular track -->
+    <path
+        android:pathData="M22,3 A19,19 0 1,1 21.99,3"
+        android:strokeWidth="3"
+        android:strokeColor="#33F59E0B"
+        android:fillColor="#00000000" />
+
+    <!-- Smooth glowing golden gradient arc -->
+    <path
+        android:pathData="M22,3 A19,19 0 0,1 41,22 A19,19 0 0,1 22,41"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="22"
+                android:startY="3"
+                android:endX="22"
+                android:endY="41"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFBBF24" />
+                <item android:offset="0.6" android:color="#FFF59E0B" />
+                <item android:offset="1.0" android:color="#00F59E0B" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+</vector>

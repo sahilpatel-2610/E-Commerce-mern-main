@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_dark"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="24dp">
+
+            <!-- Luxury Login Card (Same to Same as Flutter Card Container) -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/surface_dark"
+                app:cardCornerRadius="24dp"
+                app:cardElevation="8dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_dark_card"
+                    android:orientation="vertical"
+                    android:paddingHorizontal="22dp"
+                    android:paddingVertical="24dp">
+
+                    <!-- Top Brand Logo -->
+                    <ImageView
+                        android:id="@+id/ivLoginLogo"
+                        android:layout_width="160dp"
+                        android:layout_height="52dp"
+                        android:layout_gravity="center_horizontal"
+                        android:adjustViewBounds="true"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/app_logo" />
+
+                    <!-- Title & Subtitle -->
+                    <TextView
+                        android:id="@+id/tvAuthTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="Sign In"
+                        android:textColor="@color/text_white"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tvAuthSubtitle"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:text="Welcome back to Vraj Creation Wholesale Portal."
+                        android:textColor="@color/text_gray"
+                        android:textSize="12sp" />
+
+                    <!-- Welcome Informational Notice Box -->
+                    <LinearLayout
+                        android:id="@+id/layoutWelcomeNotice"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@drawable/bg_badge_gold"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:padding="10dp">
+
+                        <ImageView
+                            android:layout_width="14dp"
+                            android:layout_height="14dp"
+                            android:src="@drawable/ic_auto_awesome"
+                            app:tint="@color/gold_light" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="8dp"
+                            android:layout_weight="1"
+                            android:text="Please sign in or register to continue to the portal."
+                            android:textColor="@color/gold_light"
+                            android:textSize="11sp" />
+
+                    </LinearLayout>
+
+                    <!-- Sign Up Field: Full Name -->
+                    <LinearLayout
+                        android:id="@+id/layoutNameField"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="14dp"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:letterSpacing="0.08"
+                            android:text="FULL NAME *"
+                            android:textColor="@color/gold_light"
+                            android:textSize="11sp"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:id="@+id/etAuthName"
+                            android:layout_width="match_parent"
+                            android:layout_height="48dp"
+                            android:layout_marginTop="4dp"
+                            android:background="@drawable/bg_input_field"
+                            android:hint="Enter your name"
+                            android:paddingHorizontal="14dp"
+                            android:textColor="@color/text_white"
+                            android:textColorHint="@color/text_gray_dark"
+                            android:textSize="13.5sp" />
+
+                    </LinearLayout>
+
+                    <!-- Sign Up Field: Phone Number -->
+                    <LinearLayout
+                        android:id="@+id/layoutPhoneField"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:letterSpacing="0.08"
+                            android:text="PHONE NO. (10 DIGITS) *"
+                            android:textColor="@color/gold_light"
+                            android:textSize="11sp"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:id="@+id/etAuthPhone"
+                            android:layout_width="match_parent"
+                            android:layout_height="48dp"
+                            android:layout_marginTop="4dp"
+                            android:background="@drawable/bg_input_field"
+                            android:hint="e.g. 1234567890"
+                            android:inputType="phone"
+                            android:maxLength="10"
+                            android:paddingHorizontal="14dp"
+                            android:textColor="@color/text_white"
+                            android:textColorHint="@color/text_gray_dark"
+                            android:textSize="13.5sp" />
+
+                    </LinearLayout>
+
+                    <!-- Field: Email -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:letterSpacing="0.08"
+                            android:text="EMAIL *"
+                            android:textColor="@color/gold_light"
+                            android:textSize="11sp"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:id="@+id/etAuthEmail"
+                            android:layout_width="match_parent"
+                            android:layout_height="48dp"
+                            android:layout_marginTop="4dp"
+                            android:background="@drawable/bg_input_field"
+                            android:hint="name@example.com"
+                            android:inputType="textEmailAddress"
+                            android:paddingHorizontal="14dp"
+                            android:textColor="@color/text_white"
+                            android:textColorHint="@color/text_gray_dark"
+                            android:textSize="13.5sp" />
+
+                    </LinearLayout>
+
+                    <!-- Field: Password -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:letterSpacing="0.08"
+                            android:text="PASSWORD *"
+                            android:textColor="@color/gold_light"
+                            android:textSize="11sp"
+                            android:textStyle="bold" />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="48dp"
+                            android:layout_marginTop="4dp"
+                            android:background="@drawable/bg_input_field">
+
+                            <EditText
+                                android:id="@+id/etAuthPassword"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@null"
+                                android:hint="Enter your password"
+                                android:inputType="textPassword"
+                                android:paddingStart="14dp"
+                                android:paddingEnd="46dp"
+                                android:textColor="@color/text_white"
+                                android:textColorHint="@color/text_gray_dark"
+                                android:textSize="13.5sp" />
+
+                            <TextView
+                                android:id="@+id/btnTogglePasswordVisibility"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical|end"
+                                android:padding="12dp"
+                                android:text="👁"
+                                android:textColor="@color/text_gray"
+                                android:textSize="14sp" />
+
+                        </FrameLayout>
+
+                    </LinearLayout>
+
+                    <!-- Forgot Password Link -->
+                    <TextView
+                        android:id="@+id/btnForgotPassword"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dp"
+                        android:paddingVertical="4dp"
+                        android:text="Forgot Password?"
+                        android:textColor="@color/gold_light"
+                        android:textSize="11.5sp"
+                        android:textStyle="bold" />
+
+                    <!-- Action Buttons: Sign In/Up (Flex 3) + Cancel (Flex 2) -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:layout_marginTop="16dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/btnAuthSubmit"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginEnd="8dp"
+                            android:layout_weight="3"
+                            android:background="@drawable/bg_gold_gradient_btn"
+                            android:gravity="center"
+                            android:letterSpacing="0.08"
+                            android:text="SIGN IN"
+                            android:textColor="@color/text_black"
+                            android:textSize="13sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/btnAuthCancel"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="4dp"
+                            android:layout_weight="2"
+                            android:background="@drawable/bg_dark_card"
+                            android:gravity="center"
+                            android:text="Cancel"
+                            android:textColor="@color/text_gray_light"
+                            android:textSize="13sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <!-- Switch Mode Row (Not Registered? Sign Up) -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="14dp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/tvSwitchModePrefix"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Not Registered? "
+                            android:textColor="@color/text_gray"
+                            android:textSize="11.5sp" />
+
+                        <TextView
+                            android:id="@+id/btnSwitchMode"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="2dp"
+                            android:text="Sign Up"
+                            android:textColor="@color/gold_light"
+                            android:textSize="11.5sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

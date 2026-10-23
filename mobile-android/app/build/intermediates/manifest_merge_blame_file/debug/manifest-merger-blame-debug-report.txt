@@ -1,0 +1,192 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vrajcreation.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:5:5-79
+12-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:5:22-76
+13
+14    <permission
+14-->[androidx.core:core:1.12.0] C:\Users\kakad\.gradle\caches\transforms-3\db3f6b8020888a7f113f2982cc217484\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.vrajcreation.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.12.0] C:\Users\kakad\.gradle\caches\transforms-3\db3f6b8020888a7f113f2982cc217484\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.12.0] C:\Users\kakad\.gradle\caches\transforms-3\db3f6b8020888a7f113f2982cc217484\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.vrajcreation.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.12.0] C:\Users\kakad\.gradle\caches\transforms-3\db3f6b8020888a7f113f2982cc217484\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.12.0] C:\Users\kakad\.gradle\caches\transforms-3\db3f6b8020888a7f113f2982cc217484\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:7:5-61:19
+21        android:allowBackup="true"
+21-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:8:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.12.0] C:\Users\kakad\.gradle\caches\transforms-3\db3f6b8020888a7f113f2982cc217484\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/ic_launcher"
+25-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:9:9-43
+26        android:label="@string/app_name"
+26-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:10:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:11:9-54
+28        android:supportsRtl="true"
+28-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:12:9-35
+29        android:theme="@style/Theme.VrajCreation"
+29-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:14:9-50
+30        android:usesCleartextTraffic="true" >
+30-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:13:9-44
+31        <activity
+31-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:16:9-24:20
+32            android:name="com.vrajcreation.app.ui.SplashActivity"
+32-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:17:13-46
+33            android:exported="true"
+33-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:18:13-36
+34            android:theme="@style/Theme.VrajCreation" >
+34-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:19:13-54
+35            <intent-filter>
+35-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:20:13-23:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:21:17-69
+36-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:21:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:22:17-77
+38-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:22:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:26:9-29:57
+42            android:name="com.vrajcreation.app.ui.MainActivity"
+42-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:27:13-44
+43            android:exported="false"
+43-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:28:13-37
+44            android:theme="@style/Theme.VrajCreation" />
+44-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:29:13-54
+45        <activity
+45-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:31:9-34:57
+46            android:name="com.vrajcreation.app.ui.LoginActivity"
+46-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:32:13-45
+47            android:exported="false"
+47-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:33:13-37
+48            android:theme="@style/Theme.VrajCreation" />
+48-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:34:13-54
+49        <activity
+49-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:36:9-39:57
+50            android:name="com.vrajcreation.app.ui.ProductDetailActivity"
+50-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:37:13-53
+51            android:exported="false"
+51-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:38:13-37
+52            android:theme="@style/Theme.VrajCreation" />
+52-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:39:13-54
+53        <activity
+53-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:41:9-44:57
+54            android:name="com.vrajcreation.app.ui.CartActivity"
+54-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:42:13-44
+55            android:exported="false"
+55-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:43:13-37
+56            android:theme="@style/Theme.VrajCreation" />
+56-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:44:13-54
+57        <activity
+57-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:46:9-49:57
+58            android:name="com.vrajcreation.app.ui.PlaceOrderActivity"
+58-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:47:13-50
+59            android:exported="false"
+59-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:48:13-37
+60            android:theme="@style/Theme.VrajCreation" />
+60-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:49:13-54
+61        <activity
+61-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:51:9-54:57
+62            android:name="com.vrajcreation.app.ui.OrdersActivity"
+62-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:52:13-46
+63            android:exported="false"
+63-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:53:13-37
+64            android:theme="@style/Theme.VrajCreation" />
+64-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:54:13-54
+65        <activity
+65-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:56:9-59:57
+66            android:name="com.vrajcreation.app.ui.ProfileActivity"
+66-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:57:13-47
+67            android:exported="false"
+67-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:58:13-37
+68            android:theme="@style/Theme.VrajCreation" />
+68-->D:\E-Commerce-mern-main\mobile-android\app\src\main\AndroidManifest.xml:59:13-54
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kakad\.gradle\caches\transforms-3\2ae845919254fd1c61ba530851d4711d\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kakad\.gradle\caches\transforms-3\2ae845919254fd1c61ba530851d4711d\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+72            android:authorities="com.vrajcreation.app.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kakad\.gradle\caches\transforms-3\2ae845919254fd1c61ba530851d4711d\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kakad\.gradle\caches\transforms-3\2ae845919254fd1c61ba530851d4711d\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kakad\.gradle\caches\transforms-3\2ae845919254fd1c61ba530851d4711d\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kakad\.gradle\caches\transforms-3\2ae845919254fd1c61ba530851d4711d\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kakad\.gradle\caches\transforms-3\2ae845919254fd1c61ba530851d4711d\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\kakad\.gradle\caches\transforms-3\c9ce0b67a1cd31c1dda71517af8d7473\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\kakad\.gradle\caches\transforms-3\c9ce0b67a1cd31c1dda71517af8d7473\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\kakad\.gradle\caches\transforms-3\c9ce0b67a1cd31c1dda71517af8d7473\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+82                android:value="androidx.startup" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+83        </provider>
+84
+85        <receiver
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+86            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+87            android:directBootAware="false"
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+88            android:enabled="true"
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+89            android:exported="true"
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+90            android:permission="android.permission.DUMP" >
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+92                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+93            </intent-filter>
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+95                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+98                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+101                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kakad\.gradle\caches\transforms-3\78a0a8e2ee6a6f58e479b46914766cb1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+102            </intent-filter>
+103        </receiver>
+104    </application>
+105
+106</manifest>

@@ -1,0 +1,5 @@
+{
+  "dart.flutterHotReloadOnSave": "always",
+  "editor.formatOnSave": true,
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
